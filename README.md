@@ -1,1 +1,4 @@
-# EV-SegmentationAnalysis
+# Segmentational Analysis on EV startup in INDIA
+
+The group project focused on the potential mass adoption of electric vehicles (EVs) in India, considering the historical evolution of EVs since their inception in 1837 and the changing attitudes towards cars' environmental impacts. With the EV market in India being a lucrative goal for companies and start-ups, the team analyzed various datasets to identify key obstacles that still hinder widespread EV adoption. The project report highlighted post-sales service issues faced by electronic electric OEMs, ensuring battery pack assurance, and the importance of qualified technicians in the service networks. Additionally, the project emphasized the availability of wall charging units without extra expense. Through detailed analysis and insights, the project offered valuable recommendations for policymakers and stakeholders to overcome these challenges and promote the adoption of EVs, contributing to a more sustainable future for mobility in India.
+
